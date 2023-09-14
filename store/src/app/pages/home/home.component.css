@@ -6,5 +6,14 @@
     justify-content: space-around;
     align-items: baseline;
     flex-wrap: wrap;
+}
+.home-container > h1 {
+    margin-top: 100px;
+}
+.home-container__paragrafo {
     border: 1px solid #000;
+    padding: 10px;
+    margin: 30px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
 }

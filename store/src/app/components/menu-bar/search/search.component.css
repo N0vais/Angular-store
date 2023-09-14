@@ -1,0 +1,19 @@
+.search-menu {
+    width: 520px;
+    height: 50px;
+    padding: 5px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border-radius: 30px;
+    background-color: #fff;
+
+  }
+
+  .search-menu > input{
+    margin-left: 10px;
+    color: #212923;
+    width: 80%;
+    height: 35px;
+    
+  }
+  
